@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vector-addition",
+    "title": "Vector Addition",
+    "difficulty": "easy",
+    "tags": ["basic", "memory"]
+  },
+  {
+    "id": "softmax-kernel",
+    "title": "Softmax Kernel",
+    "difficulty": "medium",
+    "tags": ["warp", "reduction"]
+  }
+]
