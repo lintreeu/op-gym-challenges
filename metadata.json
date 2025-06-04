@@ -6,9 +6,9 @@
     "tags": ["basic", "memory"]
   },
   {
-    "id": "softmax-kernel",
-    "title": "Softmax Kernel",
-    "difficulty": "medium",
+    "id": "simple-softmax",
+    "title": "Simple Softmax",
+    "difficulty": "easy",
     "tags": ["warp", "reduction"]
   }
 ]
