@@ -16,5 +16,11 @@
     "title": "RMSNorm Forward",
     "difficulty": "medium",
     "tags": ["normalization", "reduction", "memory"]
+  },
+  {
+    "id": "conv2d-forward",
+    "title": "Conv2D Forward",
+    "difficulty": "medium",
+    "tags": ["convolution", "memory", "reduction"]
   }
 ]
