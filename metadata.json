@@ -9,6 +9,12 @@
     "id": "simple-softmax",
     "title": "Simple Softmax",
     "difficulty": "easy",
-    "tags": ["warp", "reduction"]
+    "tags": ["basic", "reduction"]
+  },
+   {
+    "id": "rmsnorm-forward",
+    "title": "RMSNorm Forward",
+    "difficulty": "medium",
+    "tags": ["normalization", "reduction", "memory"]
   }
 ]
